@@ -1,0 +1,15 @@
+# ChatGPT 分流规则 for clash
+# 参考 https://dasmz.com/?p=3105
+# 参考 https://github.com/wgetnz/chatgpt-openclash/blob/main/chatgpt.list
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chat.openai.com
+DOMAIN-SUFFIX,auth0.openai.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,vimeocdn.com
+DOMAIN-SUFFIX,hcaptcha.com
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,vimeo.com
+DOMAIN-SUFFIX,f7tk.com
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,ip138.com
+# ip138.com 用来测试
