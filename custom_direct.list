@@ -1,3 +1,18 @@
 # Hugging Face CND
 DOMAIN-SUFFIX,cdn-lfs.huggingface.co
 DOMAIN-KEYWORD, civitai-delivery-worker-prod
+
+#wotgame 坦克世界
+DOMAIN-SUFFIX, wotgame.cn
+DOMAIN-SUFFIX, wggames.cn
+DOMAIN-SUFFIX, wowsgame.cn
+DOMAIN-SUFFIX, wargaming.net
+DOMAIN-SUFFIX, qhimg.com
+DOMAIN-SUFFIX, 360.cn
+DOMAIN-SUFFIX, wgmods.org
+DOMAIN-SUFFIX, wgprod.net
+
+DOMAIN, b4it.ninja
+DOMAIN-SUFFIX, b4it.ninja
+
+DOMAIN-SUFFIX, ouj.com
